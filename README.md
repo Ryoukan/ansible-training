@@ -1,3 +1,4 @@
+# https://github.com/Ryoukan/ansible-training  
 # ansible-training
 ### テキスト  
 https://github.com/hiro52/linklight/blob/devel/exercises/ansible_rhel/README.ja.md  
