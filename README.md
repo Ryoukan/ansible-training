@@ -3,7 +3,7 @@
 https://github.com/hiro52/linklight/blob/devel/exercises/ansible_rhel/README.ja.md  
 
 ### POD情報
-http://1835.rhdemo.io/
+http://5fe7.rhdemo.io
 
 ### REDHATサポートモジュール
 https://docs.ansible.com/ansible/latest/modules/core_maintained.html 
