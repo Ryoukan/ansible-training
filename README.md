@@ -4,8 +4,8 @@
 https://github.com/hiro52/linklight/blob/devel/exercises/ansible_rhel/README.ja.md  
 
 ### 誤植  
-https://github.com/hiro52/linklight/blob/devel/exercises/ansible_rhel/2.2-cred/README.ja.md#%E3%83%9E%E3%82%B7%E3%83%B3%E8%AA%8D%E8%A8%BC%E6%83%85%E5%A0%B1%E3%81%AE%E4%BD%9C%E6%88%90
-マシン認証情報の作成
+https://github.com/hiro52/linklight/blob/devel/exercises/ansible_rhel/2.2-cred/README.ja.md#%E3%83%9E%E3%82%B7%E3%83%B3%E8%AA%8D%E8%A8%BC%E6%83%85%E5%A0%B1%E3%81%AE%E4%BD%9C%E6%88%90  
+マシン認証情報の作成  
 誤　パスワード: ansible  
 正　パスワード: <POD情報のSSHパスワード>
 
