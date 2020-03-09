@@ -20,6 +20,10 @@ https://docs.ansible.com/ansible/latest/modules/core_maintained.html
 
 ### 追加解説  
 1.3.1 YAML書き方  
+開始
+```
+
+```
 シーケンス（リストや配列のこと）  
 ```
 - A
